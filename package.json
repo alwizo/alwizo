@@ -1,0 +1,22 @@
+{
+  "name": "alwizo",
+  "version": "1.0.0",
+  "description": "Website of Alwizo company",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/alwizo/alwizo.git"
+  },
+  "keywords": [
+    "alwizo"
+  ],
+  "author": "Oleksii Vilchanskyi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alwizo/alwizo/issues"
+  },
+  "homepage": "https://github.com/alwizo/alwizo#readme"
+}
