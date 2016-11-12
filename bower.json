@@ -1,0 +1,23 @@
+{
+  "name": "alwizo",
+  "description": "Website of Alwizo company",
+  "main": "index.js",
+  "authors": [
+    "Oleksii Vilchanskyi"
+  ],
+  "license": "ISC",
+  "keywords": [
+    "alwizo"
+  ],
+  "homepage": "https://github.com/alwizo/alwizo",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "devDependencies": {
+    "compass-mixins": "^1.0.2"
+  }
+}
